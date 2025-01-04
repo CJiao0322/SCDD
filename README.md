@@ -7,7 +7,7 @@ The database collected 2500 screen content images from the Internet, marked them
 
 
 # Examples: 64x64 luma CU and label
-![lg1](https://github.com/CJiao0322/VVC--SCC-split-database/assets/70012114/8c5155fb-84d2-4829-a604-99e427ff372d)
+![lg1]([https://github.com/CJiao0322/VVC--SCC-split-database/assets/70012114/8c5155fb-84d2-4829-a604-99e427ff372d](https://github.com/CJiao0322/SCDD/blob/main/00340.png))
 
 # Copyright
 
