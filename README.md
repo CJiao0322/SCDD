@@ -2,7 +2,7 @@
 The database collected 2500 screen content images from the Internet, marked them with detection frames using labelimg software, and obtained detection frames for text and graphic areas. This database includes various types of screen content images, with detection box labels in two formats: VOC and YOLO.
 
 # Experimental configuration
-1. LBAELIMG10.0
+1. LabelImg
 2. YUVview
 
 
